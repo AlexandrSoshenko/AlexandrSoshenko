@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## &#127919; GitHub Stats
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrSoshenko&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrSoshenko&theme=merko" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandrSoshenko&show_icons=true&line_height=27&theme=tokyonight&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandrSoshenko&show_icons=true&line_height=27&theme=merko&count_private=true"/>
 </a>
