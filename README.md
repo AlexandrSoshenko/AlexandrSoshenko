@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=ffa500)
 
 ## &#127919; GitHub Stats
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrSoshenko" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandrSoshenko&show_icons=true&line_height=27&count_private=true"/>
-</a>
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrSoshenko&show_icons=true&hide=tcl,fortran,c,powershell,batchfile,rpc">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AlexandrSoshenko&show_icons=true&line_height=33&count_private=true">
+</p>
