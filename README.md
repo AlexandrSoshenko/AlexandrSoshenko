@@ -1,3 +1,22 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/alexandr-soshenko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexandrSoshenko&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1>
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ## 🔧 Technologies & Tools
 
 ### Programming languages
@@ -19,7 +38,7 @@
 
 ## &#127919; GitHub Stats
 <p>
-  <!--img src = "https://github-readme-streak-stats.herokuapp.com/?user=AlexandrSoshenko&show_icons=true&line_height=33&count_private=true">-->
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=AlexandrSoshenko&show_icons=true&line_height=33&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrSoshenko&show_icons=true&hide=tcl,fortran,c,powershell,batchfile,rpc">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AlexandrSoshenko&show_icons=true&line_height=33&count_private=true">
+  <!--<img src = "https://github-readme-stats.vercel.app/api?username=AlexandrSoshenko&show_icons=true&line_height=33&count_private=true">-->
 </p>
